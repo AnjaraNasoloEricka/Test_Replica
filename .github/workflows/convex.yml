@@ -3,7 +3,7 @@ name: Copy and Replace Convex Directory
 on:
   push:
     branches:
-      - dev 
+      - main 
 
 jobs:
   copy_and_replace:
